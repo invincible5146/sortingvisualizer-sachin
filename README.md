@@ -8,7 +8,6 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
-[Check out the website here](https://abhishekprakash5.github.io/Sorting-Visualization/)
 
 <img src="img/img1.png"> <br/>
 <img src="img/img2.png"> <br/>
